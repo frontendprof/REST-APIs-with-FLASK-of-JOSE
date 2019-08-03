@@ -7,15 +7,15 @@ app=Flask(__name__)
 
 
 stores=[
-    { 'name': 'My Pretty Store',
+    {   'name': 'My Pretty Store',
         'items':[
-        {
-        'name': 'item1',
-        'price':15
-        }
+            {
+                'name': 'item1',
+                'price':15
+            }
         ]
 
-}
+    }
 ]
 
 
